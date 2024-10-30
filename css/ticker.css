@@ -1,0 +1,11 @@
+div.ticker{
+   display: block;
+   padding: 3px 0;
+   border-radius: 3px
+}
+div.ticker strong{
+    background: red; padding :3px 15px;margin-right:10px;margin-top: -3px;display: inline-block;float: left;color: #fff;border-radius: 3px
+}
+div.ticker a{
+    color:#fff
+}
